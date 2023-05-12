@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='styles/style.css') }}">
+</head>
+
+<body>
+    <div class="main">
+        <div class="mainContainer">
+            <h1 class="text-center">Depression Predictor</h1>
+            <div class="mb-3">
+                <form action="/" method="post">
+                    <label class="form-label">Enter message: </label>
+                    <input type="text" class="form-control" name="msg">
+                    <input type="submit" value="Predict">
+                </form>
+            </div>
+            {% if prediction %}
+            <p>Predicted text is {{prediction}}</p>
+            {% endif %}
+        </div>
+        <div class="credit">
+            <h4>Done by:</h4>
+            <h4>Ramalingam A - 124003242</h4>
+            <h4>Manikandan T - 124003168</h4>
+        </div>
+    </div>
+</body>
+
+</html>

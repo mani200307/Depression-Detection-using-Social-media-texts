@@ -1,0 +1,5000 @@
+mentalhealth
+anxiety
+not
+depression
+quot
+sad
+get
+go
+love
+like
+day
+good
+amp
+feel
+one
+time
+people
+want
+make
+life
+think
+know
+today
+see
+need
+well
+take
+work
+would
+help
+say
+thing
+mental
+mentalhealthmatters
+health
+thanks
+really
+someone
+lol
+come
+back
+look
+us
+suicide
+much
+new
+great
+try
+never
+still
+way
+('mental', 'health')
+right
+tell
+happy
+start
+let
+depress
+bad
+friend
+keep
+night
+week
+give
+could
+talk
+year
+hope
+always
+care
+even
+live
+everyone
+leave
+watch
+please
+follow
+twitter
+mentalhealthawareness
+thank
+use
+find
+wait
+last
+haha
+show
+something
+morning
+ignore
+lt
+anyone
+tweet
+ok
+home
+first
+oh
+best
+mind
+world
+ever
+sleep
+bipolar
+call
+stress
+hard
+end
+pain
+every
+lose
+hey
+many
+('mentalhealth', 'mentalhealthmatters')
+nice
+support
+long
+('depression', 'anxiety')
+lot
+nothing
+yes
+feeling
+fun
+thought
+yeah
+also
+('feel', 'like')
+stop
+change
+person
+lack
+self
+hurt
+struggle
+break
+alone
+miss
+tomorrow
+hate
+guy
+next
+('anxiety', 'depression')
+mean
+quote
+followfriday
+ask
+little
+play
+though
+everything
+sometimes
+wish
+ptsd
+away
+real
+read
+may
+kind
+selfcare
+remember
+awesome
+heal
+listen
+game
+differ
+put
+fuck
+problem
+check
+('mentalhealth', 'depression')
+song
+girl
+else
+tonight
+school
+family
+cry
+job
+write
+man
+kill
+do
+around
+head
+die
+happen
+eat
+god
+anything
+covid
+panic
+without
+therapy
+another
+enjoy
+sure
+hear
+reason
+big
+stay
+heart
+others
+maybe
+post
+old
+might
+forget
+('not', 'wait')
+learn
+motivation
+cool
+hour
+loneliness
+word
+soon
+experience
+lonely
+okay
+bed
+enough
+yet
+actually
+('let', 'us')
+ocd
+share
+music
+month
+fear
+since
+x
+run
+already
+important
+smile
+book
+beautiful
+trauma
+part
+name
+pretty
+free
+place
+seem
+w
+kid
+movie
+walk
+('not', 'want')
+issue
+wake
+brain
+sound
+adhd
+dream
+understand
+depressed
+woman
+weekend
+past
+buy
+shit
+funny
+sorry
+move
+two
+become
+glad
+moment
+birthday
+must
+hand
+suffer
+child
+gt
+social
+matter
+story
+face
+meet
+ya
+hi
+body
+high
+n
+hit
+welcome
+send
+bit
+turn
+fight
+true
+add
+mentalillness
+peace
+point
+house
+bpd
+win
+deal
+safe
+open
+calm
+reach
+stuff
+amaze
+positive
+worry
+relationship
+fan
+guess
+money
+anxious
+finally
+illness
+strong
+pay
+emotion
+fall
+tire
+side
+happiness
+begin
+anymore
+forward
+odd
+('love', 'one')
+mood
+later
+phone
+yay
+wrong
+believe
+('mentalhealth', 'mentalhealthawareness')
+b
+conversation
+bring
+r
+attack
+plan
+recovery
+follower
+wonder
+th
+suck
+idea
+selflove
+mom
+yesterday
+('anxiety', 'mentalhealth')
+parent
+('mentalhealthmatters', 'mentalhealth')
+question
+ago
+rest
+cute
+pm
+focus
+('mentalhealthmatters', 'mentalhealthawareness')
+finish
+death
+disorder
+('bipolar', 'anxiety')
+late
+reminder
+dog
+speak
+able
+('good', 'morning')
+food
+men
+hell
+easy
+full
+different
+friday
+musicmonday
+('not', 'see')
+emotional
+light
+ready
+least
+video
+less
+special
+eye
+('anxiety', 'ocd')
+laugh
+med
+state
+sweet
+goal
+excite
+bear
+fact
+inside
+minute
+saw
+hahaha
+physical
+('mentalhealth', 'bipolar')
+mindfulness
+team
+community
+together
+often
+news
+baby
+luck
+hold
+dark
+crazy
+pic
+step
+com
+realize
+daily
+close
+almost
+far
+monday
+whole
+hello
+text
+drink
+medium
+link
+human
+wow
+psychology
+wellbeing
+instead
+low
+early
+control
+truth
+mentally
+unmake
+('quot', 'quot')
+('mental', 'illness')
+boy
+sit
+damn
+success
+inspiration
+worth
+energy
+promise
+prevent
+course
+probably
+hot
+save
+service
+lie
+trust
+join
+p
+therapist
+lovely
+sick
+('last', 'night')
+future
+coffee
+either
+('bipolar', 'anxiety', 'ocd')
+felt
+broken
+drive
+party
+especially
+train
+ha
+('mentalhealth', 'bipolar', 'anxiety')
+tip
+treat
+set
+sunday
+deep
+sign
+grow
+weight
+small
+myweakness
+('look', 'like')
+create
+awareness
+('one', 'day')
+choose
+quoteoftheday
+('hurt', 'someone')
+include
+rock
+nobody
+fine
+lately
+('look', 'forward')
+('go', 'hurt')
+base
+single
+c
+list
+manage
+spend
+suicideprevention
+young
+scar
+hug
+('go', 'hurt', 'someone')
+mother
+cause
+race
+sadness
+e
+battle
+choice
+summer
+healthy
+dead
+top
+picture
+('not', 'feel')
+busy
+room
+reply
+mindset
+k
+ff
+ill
+due
+email
+wellness
+sense
+rain
+act
+power
+black
+addiction
+counsel
+voice
+space
+group
+('depression', 'mentalhealth')
+art
+obviate
+omg
+dm
+notice
+update
+date
+quite
+seek
+('take', 'care')
+message
+car
+gender
+possible
+('anyone', 'else')
+ability
+advice
+line
+comment
+student
+half
+education
+www
+('mentalhealth', 'anxiety')
+whatever
+normal
+lucky
+everyday
+proud
+dislike
+hehe
+meditation
+lead
+soul
+wonderful
+test
+('mentalhealth', 'mentalhealthmatters', 'mentalhealthawareness')
+deserve
+challenge
+wife
+dad
+fail
+episode
+session
+catch
+pick
+amazing
+breathe
+affect
+decide
+sun
+mine
+hair
+dance
+('make', 'feel')
+joke
+pass
+company
+chat
+age
+anxietydisorder
+number
+super
+study
+relax
+growth
+outside
+evil
+couple
+symptom
+absolutely
+treatment
+level
+suicidal
+rather
+anyway
+('let', 'know')
+abuse
+definitely
+poetry
+present
+favorite
+trend
+tear
+suppose
+star
+push
+country
+order
+class
+etc
+note
+('would', 'like')
+('good', 'day')
+situation
+bore
+angry
+second
+behind
+bother
+answer
+as
+clean
+case
+trigger
+('one', 'care')
+cold
+appreciate
+continue
+totally
+lmao
+account
+dude
+congrats
+weird
+stream
+till
+negative
+expect
+blog
+doctor
+stupid
+fix
+cuz
+tv
+water
+system
+towards
+accept
+perfect
+strength
+via
+interest
+stand
+brother
+online
+seriously
+drop
+wear
+hide
+increase
+('panic', 'anxiety')
+st
+unsure
+rise
+autism
+business
+est
+improve
+('quote', 'quoteoftheday')
+pandemic
+difficult
+quiet
+reality
+journey
+f
+season
+bipolardisorder
+joy
+tired
+insomnia
+survive
+remind
+ah
+libya
+('social', 'medium')
+('mentalhealthawareness', 'mentalhealthmatters')
+('show', 'love')
+grateful
+hang
+agree
+vote
+saturday
+('every', 'day')
+('not', 'panic')
+touch
+event
+type
+exist
+result
+exercise
+visit
+practice
+prayer
+retweet
+form
+photo
+lady
+son
+chance
+build
+grief
+afraid
+imagine
+allow
+action
+loveyourself
+shame
+iremember
+l
+condition
+commit
+emo
+character
+front
+positivevibes
+belief
+('anxiety', 'calm')
+('reminder', 'ok')
+('safe', 'not')
+('keep', 'go')
+('not', 'panic', 'anxiety')
+memory
+short
+harm
+attention
+personal
+hopefully
+('happy', 'birthday')
+('good', 'luck')
+('one', 'depression')
+poor
+youtube
+recently
+alive
+xx
+('est', 'reminder')
+('ok', 'safe')
+('calm', 'panic')
+('est', 'reminder', 'ok')
+('reminder', 'ok', 'safe')
+('ok', 'safe', 'not')
+('safe', 'not', 'panic')
+('panic', 'anxiety', 'calm')
+('anxiety', 'calm', 'panic')
+huge
+beat
+xd
+loss
+folk
+effect
+meeting
+album
+patient
+three
+record
+evacuterefugeesfromlibya
+('not', 'really')
+('let', 'go')
+('panic', 'attack')
+('make', 'sure')
+('even', 'not')
+('evacuterefugeesfromlibya', 'covid')
+weather
+release
+impact
+writer
+society
+uk
+project
+heard
+('show', 'love', 'one')
+('love', 'one', 'care')
+anger
+facebook
+report
+v
+writingcommunity
+crisis
+wash
+hop
+difference
+bet
+goodnight
+recommend
+mindhelp
+topic
+('libya', 'evacuterefugeesfromlibya')
+('libya', 'evacuterefugeesfromlibya', 'covid')
+content
+kick
+dinner
+pride
+consider
+scare
+('feel', 'good')
+('mentalhealth', 'quote')
+teach
+gun
+('not', 'care')
+('get', 'back')
+('great', 'day')
+('mindhelp', 'mentalhealth')
+attempt
+truly
+research
+figure
+religion
+serious
+cut
+shower
+fly
+adult
+fast
+cancer
+('not', 'mean')
+risk
+center
+wealth
+min
+tough
+literally
+stick
+('stress', 'anxiety')
+('start', 'conversation')
+trip
+avoid
+selfesteem
+lunch
+simple
+force
+cook
+count
+yep
+('someone', 'anxiety')
+('first', 'time')
+response
+worldmentalhealthday
+fill
+interview
+process
+key
+random
+sicknotweak
+mr
+city
+aww
+('get', 'good')
+('feel', 'sad')
+('love', 'mentalhealth')
+forever
+stigma
+pray
+alright
+('feel', 'well')
+('mentalhealth', 'quote', 'quoteoftheday')
+kiss
+pull
+offer
+sort
+exhaust
+complete
+yea
+shut
+('next', 'week')
+('good', 'night')
+honest
+review
+('want', 'tell')
+('end', 'anxiety')
+('mindhelp', 'mentalhealth', 'quote')
+kindness
+blue
+scary
+shop
+('many', 'people')
+('not', 'help')
+('feel', 'lonely')
+('would', 'tell')
+('mentalhealthmatters', 'depression')
+('want', 'see')
+bitch
+bye
+afternoon
+teacher
+bless
+term
+hospital
+page
+tea
+('go', 'get')
+white
+drug
+mistake
+explain
+store
+college
+bully
+dear
+medication
+('go', 'back')
+('quot', 'love')
+likely
+within
+faith
+slow
+solution
+co
+shake
+cptsd
+lesson
+tune
+bout
+mention
+('want', 'go')
+('sound', 'like')
+('could', 'start')
+('hurt', 'someone', 'anxiety')
+opportunity
+positivity
+heavy
+sigh
+office
+courage
+('come', 'back')
+('kill', 'anxiety')
+('conversation', 'love')
+('conversation', 'love', 'one')
+view
+empty
+travel
+red
+sing
+bipolarclub
+mad
+pas
+('take', 'med')
+('someone', 'want')
+('someone', 'depression')
+('could', 'start', 'conversation')
+('start', 'conversation', 'love')
+('love', 'one', 'depression')
+ticket
+violence
+clear
+toxic
+cup
+everybody
+itsokaynottobeokay
+handle
+('need', 'help')
+('bipolar', 'depression')
+('wish', 'could')
+('go', 'go')
+('promise', 'would')
+('someone', 'think')
+('thanks', 'follow')
+fake
+longer
+friends
+cat
+tech
+sister
+('anxiety', 'mentalhealthmatters')
+('commit', 'suicide')
+('end', 'depression')
+('quot', 'not')
+professional
+currently
+throw
+major
+concert
+daughter
+starve
+site
+awww
+('year', 'ago')
+('take', 'time')
+('mentalhealthawareness', 'mentalhealth')
+('think', 'special')
+('get', 'follower')
+spirituality
+near
+india
+partner
+completely
+nervous
+along
+appointment
+('every', 'time')
+('go', 'bed')
+('help', 'mentalhealth')
+('good', 'time')
+('tell', 'beautiful')
+('text', 'home')
+option
+overcome
+respect
+realise
+public
+plus
+('wait', 'get')
+('health', 'mentalhealth')
+('kill', 'depression')
+('beautiful', 'promise')
+('tell', 'race')
+('race', 'weight')
+('weight', 'scare')
+('scare', 'past')
+('past', 'ability')
+('ability', 'wealth')
+('wealth', 'gender')
+('gender', 'education')
+('education', 'religion')
+('religion', 'belief')
+('belief', 'side')
+('side', 'pride')
+('home', 'suicide')
+('suicide', 'counsel')
+('counsel', 'someone')
+('special', 'even')
+('someone', 'want', 'tell')
+('want', 'tell', 'beautiful')
+('tell', 'beautiful', 'promise')
+('beautiful', 'promise', 'would')
+('promise', 'would', 'tell')
+('would', 'tell', 'race')
+('tell', 'race', 'weight')
+('race', 'weight', 'scare')
+('weight', 'scare', 'past')
+('scare', 'past', 'ability')
+('past', 'ability', 'wealth')
+('ability', 'wealth', 'gender')
+('wealth', 'gender', 'education')
+('gender', 'education', 'religion')
+('education', 'religion', 'belief')
+('religion', 'belief', 'side')
+('belief', 'side', 'pride')
+('text', 'home', 'suicide')
+('home', 'suicide', 'counsel')
+('suicide', 'counsel', 'someone')
+('counsel', 'someone', 'think')
+('someone', 'think', 'special')
+('think', 'special', 'even')
+('special', 'even', 'not')
+however
+scream
+lord
+mess
+member
+dr
+poem
+decision
+final
+upset
+motivationalquotes
+block
+lifequotes
+('one', 'thing')
+('not', 'alone')
+('would', 'love')
+('get', 'help')
+air
+middle
+reduce
+wave
+piece
+breath
+medical
+sell
+internet
+overwhelm
+million
+yo
+cross
+app
+search
+return
+band
+('want', 'die')
+darkness
+rate
+physically
+film
+contact
+diagnose
+husband
+park
+annoy
+trouble
+door
+fire
+tuesday
+('year', 'old')
+('never', 'know')
+('bad', 'day')
+('long', 'time')
+inequitable
+fitness
+halloween
+provide
+cope
+cheer
+disbelieve
+taste
+h
+cover
+lay
+green
+indeed
+('someone', 'else')
+('anxiety', 'stress')
+('not', 'wait', 'get')
+earth
+g
+constant
+warm
+lifestyle
+amount
+ice
+bill
+alcohol
+nd
+hr
+pls
+la
+('health', 'issue')
+podcast
+worker
+endthestigma
+ugh
+woke
+survivor
+affirmation
+local
+sexy
+('good', 'thing')
+('last', 'week')
+holiday
+freedom
+somewhere
+unless
+raise
+track
+awake
+bekind
+concern
+blame
+doubt
+gift
+inspire
+iphone
+goodsex
+('ask', 'help')
+('self', 'harm')
+('mentalhealth', 'selfcare')
+cop
+wisdom
+reassure
+series
+gym
+celebrate
+match
+constantly
+shall
+quick
+entire
+yr
+spread
+horrible
+pop
+resource
+('even', 'though')
+('reason', 'keep')
+('wait', 'see')
+('quoteoftheday', 'lifequotes')
+('mental', 'health', 'issue')
+('hurt', 'someone', 'depression')
+j
+version
+road
+david
+across
+judge
+apart
+honestly
+ruin
+spirit
+usually
+mum
+sooo
+('self', 'care')
+('quote', 'quoteoftheday', 'lifequotes')
+healthcare
+career
+somebody
+bro
+chill
+color
+progress
+task
+foodfortheself
+('not', 'understand')
+('see', 'reason')
+('mentalhealth', 'loveyourself')
+('covid', 'mentalhealth')
+('not', 'see', 'reason')
+('see', 'reason', 'keep')
+('reason', 'keep', 'go')
+heartbroken
+feed
+prevention
+emotionally
+anybody
+mask
+breakfast
+info
+alex
+drain
+comfort
+ahead
+america
+da
+dress
+('get', 'hell')
+('depression', 'ptsd')
+('think', 'bother')
+('bother', 'everyone')
+('think', 'bother', 'everyone')
+connect
+common
+interested
+living
+nap
+hat
+suicideawareness
+rip
+town
+benefit
+severe
+psychiatrist
+crypto
+google
+hmm
+loan
+('life', 'mentalhealth')
+silence
+address
+receive
+disclaim
+ride
+club
+pregnant
+lil
+war
+overthinking
+fit
+area
+disease
+invite
+player
+myspace
+('depression', 'depress')
+('think', 'buy')
+('mentalhealth', 'motivation')
+crush
+general
+confidence
+value
+blood
+exactly
+relate
+click
+diagnosis
+individual
+('depression', 'mentalhealthmatters')
+('best', 'friend')
+('not', 'wait', 'see')
+chocolate
+failure
+express
+nurse
+client
+non
+october
+protect
+switch
+distract
+exam
+shout
+june
+nourishmentoftheselfjourney
+('know', 'not')
+('people', 'not')
+('mentalhealth', 'mentalillness')
+('mentalhealthmatters', 'anxiety')
+('lt', 'lt')
+('wait', 'get', 'hell')
+('love', 'mentalhealth', 'loveyourself')
+moon
+desire
+design
+chronicpain
+chronic
+born
+mate
+program
+wednesday
+waste
+repeat
+cancel
+large
+regret
+wall
+radio
+vacation
+round
+bio
+opinion
+narhc
+happythoughts
+('anxiety', 'ptsd')
+('everyone', 'go')
+('reason', 'live')
+('lately', 'mentalhealth')
+('covid', 'narhc')
+('narhc', 'mentalhealth')
+('positivevibes', 'happythoughts')
+('happythoughts', 'love')
+('covid', 'narhc', 'mentalhealth')
+('positivevibes', 'happythoughts', 'love')
+('happythoughts', 'love', 'mentalhealth')
+isolation
+simply
+father
+skill
+til
+fresh
+john
+football
+purpose
+jump
+idle
+november
+weak
+develop
+inspirationalquotes
+('ptsd', 'anxiety')
+('buy', 'gun')
+('really', 'good')
+('selfcare', 'mentalhealth')
+('mentalhealth', 'depression', 'anxiety')
+('think', 'buy', 'gun')
+discussion
+hopeless
+sex
+quality
+friendly
+finger
+rule
+whether
+wtf
+roll
+boundary
+whenever
+admit
+except
+available
+effort
+schizophrenia
+extra
+gratitude
+thursday
+vip
+refelction
+('not', 'tell')
+('depression', 'mentalillness')
+('wash', 'hand')
+('loveyourself', 'refelction')
+('mentalhealth', 'loveyourself', 'refelction')
+nearly
+english
+amwriting
+fantastic
+friendship
+brave
+carry
+rough
+recover
+although
+compare
+compassion
+fault
+sunshine
+apple
+favourite
+sharedfacts
+monster
+nope
+workout
+confuse
+motivational
+national
+('feel', 'way')
+('depression', 'suicide')
+('think', 'would')
+('try', 'get')
+('physical', 'health')
+('next', 'time')
+('think', 'get')
+('thank', 'much')
+beyond
+jesus
+pressure
+pleasure
+cake
+screen
+extremely
+sky
+current
+cost
+staff
+secret
+coz
+respond
+inner
+soo
+period
+balance
+none
+excuse
+loud
+brilliant
+apply
+law
+innerthoughts
+nite
+('love', 'love')
+('go', 'away')
+('think', 'go')
+('hate', 'everyone')
+('gt', 'gt')
+('motivation', 'inspiration')
+('refelction', 'innerthoughts')
+('violence', 'towards')
+('lately', 'mentalhealth', 'depression')
+('loveyourself', 'refelction', 'innerthoughts')
+('evacuterefugeesfromlibya', 'covid', 'mentalhealth')
+artist
+stranger
+land
+burn
+hilarious
+excited
+chest
+australia
+breakdown
+chicken
+creative
+destroy
+american
+foot
+youth
+unable
+card
+personality
+download
+discuss
+copy
+refugees
+('want', 'know')
+('amp', 'amp')
+('last', 'year')
+('gender', 'base')
+('base', 'violence')
+('towards', 'refugees')
+('refugees', 'libya')
+('gender', 'base', 'violence')
+('base', 'violence', 'towards')
+('violence', 'towards', 'refugees')
+('towards', 'refugees', 'libya')
+('refugees', 'libya', 'evacuterefugeesfromlibya')
+connection
+dangerous
+vibe
+gay
+window
+nature
+illegal
+earlier
+apparently
+twitch
+computer
+jealous
+yup
+shot
+destiny
+bar
+helpful
+beach
+marsiscoming
+('make', 'happy')
+('day', 'not')
+('seem', 'like')
+('day', 'day')
+('love', 'sad')
+('anxiety', 'attack')
+('stop', 'gender')
+('follower', 'day')
+('day', 'use')
+('use', 'www')
+('com', 'add')
+('add', 'everyone')
+('everyone', 'train')
+('train', 'pay')
+('pay', 'vip')
+('stop', 'gender', 'base')
+('get', 'follower', 'day')
+('follower', 'day', 'use')
+('day', 'use', 'www')
+('com', 'add', 'everyone')
+('add', 'everyone', 'train')
+('everyone', 'train', 'pay')
+('train', 'pay', 'vip')
+drown
+alien
+draw
+boyfriend
+smoke
+terrible
+mark
+guilty
+habit
+drunk
+style
+acceptance
+ten
+double
+load
+leadership
+aw
+hun
+('depression', 'amp')
+('sad', 'sad')
+('could', 'not')
+('not', 'say')
+burnout
+stuck
+guilt
+shift
+clothes
+regard
+nevergiveup
+hole
+gorgeous
+blow
+paint
+tool
+medicine
+limit
+achieve
+damage
+nft
+sport
+priority
+de
+leader
+jonas
+('not', 'one')
+('really', 'want')
+('today', 'mentalhealth')
+('mentalhealth', 'mentalhealthawareness', 'mentalhealthmatters')
+twice
+knowledge
+thru
+paper
+congratulation
+demon
+ground
+wed
+asleep
+nightmare
+bag
+website
+five
+stomach
+skin
+refuse
+awful
+quit
+street
+fb
+victim
+remove
+request
+behavior
+attitude
+productive
+ex
+mentalhealthday
+sir
+mouth
+aware
+relief
+beauty
+id
+interesting
+pretend
+article
+adam
+('seek', 'help')
+('depression', 'sad')
+('never', 'get')
+('want', 'get')
+('live', 'life')
+('pregnant', 'woman')
+recognize
+fat
+homeless
+rich
+role
+despite
+perspective
+involve
+straight
+perhaps
+ring
+minecraft
+safety
+headache
+police
+july
+disability
+employee
+xxx
+veteran
+south
+beer
+detention
+tour
+haveyouever
+('go', 'home')
+('love', 'song')
+('selfcare', 'selfesteem')
+('evacuterefugeesfromlibya', 'covid', 'narhc')
+painful
+addict
+bite
+source
+customer
+access
+activity
+gain
+encourage
+london
+miserable
+empathy
+stage
+massive
+suddenly
+animal
+smart
+rid
+fell
+mondaymotivation
+history
+diet
+slowly
+sword
+schedule
+box
+certain
+successful
+spot
+incredible
+bgt
+('make', 'sense')
+('get', 'ready')
+('struggle', 'mental')
+('help', 'need')
+('say', 'not')
+('anxiety', 'bpd')
+('inside', 'illegal')
+('illegal', 'detention')
+('detention', 'center')
+('center', 'libya')
+('innerthoughts', 'heal')
+('mother', 'day')
+('inside', 'illegal', 'detention')
+('illegal', 'detention', 'center')
+('detention', 'center', 'libya')
+('center', 'libya', 'evacuterefugeesfromlibya')
+('refelction', 'innerthoughts', 'heal')
+information
+smell
+soooo
+lockdown
+thread
+lazy
+crap
+frustrate
+officially
+knew
+user
+deny
+childhood
+floor
+temporary
+chris
+achievement
+brown
+government
+huh
+noise
+hero
+yawn
+chad
+cousin
+babe
+shaundiviney
+('know', 'someone')
+('day', 'today')
+('anxiety', 'not')
+('everyone', 'else')
+('look', 'good')
+('mentalhealth', 'issue')
+('go', 'work')
+('amp', 'anxiety')
+('talk', 'mentalhealth')
+('woman', 'inside')
+('ha', 'ha')
+('woman', 'inside', 'illegal')
+ball
+breakup
+chronicillness
+autistic
+actual
+pizza
+swear
+prepare
+four
+wit
+christmas
+si
+ear
+accord
+mail
+antidepressant
+hungry
+conference
+suggestion
+shoe
+routine
+factor
+attend
+detail
+manager
+model
+hahah
+('well', 'not')
+('depression', 'not')
+('take', 'break')
+('last', 'day')
+('people', 'say')
+('get', 'one')
+('sad', 'depression')
+('go', 'well')
+('love', 'quot')
+('pregnant', 'woman', 'inside')
+surround
+flower
+highly
+flow
+cream
+arm
+instagram
+fellow
+recent
+harder
+brocken
+nonbeing
+psychotherapy
+crash
+easily
+reading
+pill
+fav
+buddy
+roblox
+freak
+strange
+buffalo
+witcher
+powerful
+spell
+leg
+seasonal
+xoxo
+('keep', 'quiet')
+('get', 'new')
+('sad', 'depress')
+('not', 'ok')
+('save', 'life')
+('get', 'love')
+('feel', 'anxious')
+('back', 'work')
+('last', 'time')
+('new', 'thing')
+('add', 'anxiety')
+('social', 'anxiety')
+('die', 'suicide')
+('good', 'mentalhealth')
+('quot', 'get')
+escape
+smh
+heartbreak
+expectation
+prefer
+tend
+storm
+unhappy
+talent
+among
+dumb
+forgot
+coach
+assume
+usual
+ahh
+solve
+borderlinepersonalitydisorder
+tree
+ooh
+appear
+price
+shoot
+suggest
+magic
+('life', 'not')
+('thing', 'get')
+('get', 'well')
+('start', 'feel')
+('like', 'not')
+('not', 'matter')
+('get', 'bad')
+('mentalhealth', 'add')
+('anxiety', 'life')
+('daily', 'goal')
+('mentalillness', 'mentalhealth')
+('note', 'self')
+('everyone', 'go', 'hurt')
+('anxiety', 'mentalhealth', 'depression')
+existence
+surprise
+remain
+mile
+introvert
+require
+cloud
+somehow
+actuallyautistic
+nah
+canada
+culture
+harry
+male
+barely
+goodbye
+afford
+impossible
+prove
+surgery
+ugly
+piss
+alot
+pool
+goodmorning
+socialanxiety
+anytime
+resilience
+language
+laundry
+several
+excellent
+score
+squarespace
+('depression', 'loneliness')
+('oh', 'well')
+('ptsd', 'depression')
+('would', 'not')
+('give', 'us')
+('really', 'need')
+('odd', 'know')
+('get', 'home')
+('anxiety', 'amp')
+('anxiety', 'anxiety')
+('witcher', 'sword')
+('sword', 'destiny')
+('link', 'bio')
+('life', 'depression')
+('say', 'hi')
+('pride', 'text')
+('say', 'quot')
+('mentalhealth', 'add', 'anxiety')
+('add', 'anxiety', 'bpd')
+('witcher', 'sword', 'destiny')
+('side', 'pride', 'text')
+('pride', 'text', 'home')
+warn
+socialmedia
+master
+cure
+girlfriend
+flight
+relatable
+screw
+dose
+guide
+data
+universe
+pack
+bank
+making
+migraine
+shirt
+ad
+bunch
+king
+reaction
+whose
+psychologist
+depressive
+yummy
+('day', 'go')
+('want', 'say')
+('go', 'see')
+('love', 'life')
+('get', 'bed')
+('today', 'feel')
+('go', 'end')
+('need', 'get')
+('go', 'sleep')
+('anxiety', 'panic')
+('depression', 'stress')
+('dog', 'walk')
+('not', 'bad')
+('time', 'mentalhealth')
+('good', 'one')
+('quot', 'haha')
+obviously
+plz
+thankyou
+pathetic
+cheese
+camera
+nail
+disney
+quickly
+fyp
+unfortunately
+garden
+vent
+healingtrauma
+per
+function
+diabetes
+nftcommunity
+unknown
+worthy
+na
+shopping
+rap
+epic
+mo
+nathaniel
+branden
+('time', 'get')
+('mentalhealth', 'wellbeing')
+('reach', 'help')
+('people', 'love')
+('make', 'day')
+('everyone', 'end')
+('goal', 'take')
+('anxiety', 'disorder')
+('mentalhealth', 'health')
+('struggle', 'mentalhealth')
+('stay', 'tune')
+('day', 'mentalhealth')
+('nathaniel', 'branden')
+('nourishmentoftheselfjourney', 'foodfortheself')
+('struggle', 'mental', 'health')
+otherwise
+comfortable
+image
+hah
+fully
+management
+england
+forgiveness
+engage
+thinking
+sale
+manic
+queen
+channel
+humanity
+field
+adhdawarenessmonth
+explore
+cycle
+steal
+famous
+anywhere
+bus
+chapter
+define
+letter
+taylor
+market
+anti
+esteem
+spent
+background
+regular
+anyways
+silly
+emotionalwellbeing
+guitar
+expert
+launch
+miley
+('not', 'good')
+('high', 'school')
+('sad', 'happy')
+('know', 'get')
+('amp', 'depression')
+('little', 'bit')
+('bpd', 'anxiety')
+('finally', 'get')
+('suffer', 'anxiety')
+('bpd', 'lonely')
+('struggle', 'depression')
+('side', 'effect')
+('everyone', 'kill')
+('read', 'witcher')
+('mentalhealthawareness', 'depression')
+('get', 'go')
+('welcome', 'twitter')
+('anxiety', 'bpd', 'lonely')
+('goal', 'take', 'med')
+('read', 'witcher', 'sword')
+('mentalhealth', 'motivation', 'inspiration')
+hopelessness
+disappoint
+performance
+colleague
+burden
+importance
+mindful
+sweat
+web
+main
+bottle
+selfish
+itsokaytonotbeokay
+reflect
+charity
+ate
+arrive
+teeth
+approach
+dry
+board
+motivate
+spiritual
+dish
+pro
+tom
+environment
+maintain
+profile
+jus
+bb
+mac
+cd
+giveaway
+def
+twilight
+('anxiety', 'adhd')
+('sad', 'life')
+('time', 'year')
+('another', 'day')
+('sad', 'quote')
+('selfcare', 'selflove')
+('distract', 'survive')
+('get', 'mentalhealth')
+('pm', 'est')
+('recovery', 'mentalhealth')
+('today', 'go')
+('pride', 'lie')
+('lie', 'text')
+('would', 'say')
+('therapy', 'mentalhealth')
+('new', 'show')
+('happy', 'mother')
+('mentalhealthmatters', 'depression', 'anxiety')
+('side', 'pride', 'lie')
+('pride', 'lie', 'text')
+('lie', 'text', 'home')
+('happy', 'mother', 'day')
+dematerialize
+discover
+lift
+willing
+determine
+eventually
+ahhh
+loose
+sober
+wise
+pant
+eh
+tag
+roof
+boo
+zone
+proper
+embarrass
+pre
+thankful
+mountain
+spending
+pc
+fund
+hotel
+boat
+fabulous
+nation
+sunny
+thanx
+woo
+yum
+('feel', 'alone')
+('much', 'love')
+('feeling', 'like')
+('go', 'try')
+('depression', 'real')
+('much', 'good')
+('go', 'kill')
+('would', 'never')
+('self', 'esteem')
+('day', 'work')
+('join', 'us')
+('way', 'mentalhealth')
+('quot', 'good')
+('trend', 'topic')
+('pm', 'est', 'reminder')
+('mental', 'health', 'mentalhealth')
+('mentalhealth', 'depression', 'mentalillness')
+stressful
+permanent
+absolute
+horror
+brokenheart
+path
+midnight
+got
+convince
+mondaythoughts
+lmfao
+worst
+winter
+shock
+depend
+entrepreneur
+uncomfortable
+trick
+math
+meditate
+plant
+responsibility
+clock
+regardless
+target
+size
+curious
+confirm
+church
+q
+basically
+lock
+holy
+training
+female
+network
+clearly
+invest
+ohh
+ng
+award
+('great', 'time')
+('fear', 'anxiety')
+('quote', 'motivation')
+('work', 'hard')
+('writingcommunity', 'mentalhealth')
+('want', 'talk')
+('try', 'make')
+('not', 'watch')
+('many', 'time')
+('life', 'sad')
+('hope', 'get')
+('lonely', 'buffalo')
+('adhd', 'anxiety')
+('help', 'get')
+('thank', 'god')
+('know', 'go')
+('mentalhealth', 'psychology')
+('need', 'mentalhealth')
+('hope', 'great')
+('job', 'like')
+('today', 'sad')
+('bpd', 'lonely', 'buffalo')
+acknowledge
+useless
+lgbtq
+miracle
+bright
+marriage
+lame
+publish
+crack
+enemy
+platform
+studio
+development
+third
+marry
+generation
+ghost
+tuesdayvibe
+belong
+selfhelp
+glass
+knock
+active
+partly
+edge
+potential
+postpartum
+feature
+deliver
+grocery
+incredibly
+extreme
+bitcoin
+ego
+told
+al
+hire
+predator
+north
+fortnite
+mh
+addictiontreatment
+vid
+goin
+pink
+ipod
+('people', 'like')
+('felt', 'like')
+('feel', 'free')
+('anxiety', 'anxietydisorder')
+('friend', 'family')
+('life', 'love')
+('tell', 'not')
+('day', 'feel')
+('well', 'do')
+('anxiety', 'go')
+('want', 'check')
+('survive', 'mentalhealth')
+('thing', 'mentalhealth')
+('please', 'not')
+('health', 'important')
+('make', 'smile')
+('b', 'c')
+('know', 'feel')
+('change', 'want')
+blessing
+dollar
+reward
+blanket
+mix
+bloody
+sea
+station
+clinical
+fibromyalgia
+code
+sadboy
+passion
+teen
+promote
+mostly
+settle
+absence
+replace
+wine
+personally
+workplace
+cbt
+shadowwork
+evening
+upon
+robert
+psychological
+colour
+uneasy
+root
+subject
+kitchen
+numb
+author
+trap
+wild
+possibly
+bike
+meant
+nhs
+fair
+joe
+thousand
+murder
+average
+bird
+excitement
+correct
+boys
+oktonotbeok
+sentience
+armageddon
+vega
+hotwords
+andyclemmensen
+('health', 'problem')
+('people', 'go')
+('really', 'not')
+('day', 'time')
+('happy', 'sad')
+('ice', 'cream')
+('take', 'away')
+('ever', 'get')
+('would', 'rather')
+('really', 'like')
+('never', 'think')
+('best', 'way')
+('mentalhealth', 'therapy')
+('like', 'go')
+('pretty', 'good')
+('like', 'mentalhealth')
+('notice', 'change')
+('spend', 'time')
+('people', 'think')
+('go', 'mentalhealth')
+('heal', 'mentalhealth')
+('care', 'mentalhealth')
+('like', 'quot')
+('survive', 'mentalhealth', 'bipolar')
+('bipolar', 'anxiety', 'mentalhealth')
+serve
+patience
+multiple
+fool
+theme
+pet
+humor
+science
+lyric
+healingjourney
+crowd
+drama
+tight
+official
+fucking
+peer
+disappear
+chuck
+mirror
+sadly
+beg
+guest
+apology
+false
+ship
+shine
+similar
+lithium
+cheap
+fatigue
+recommendation
+onto
+direct
+vulnerable
+better
+popular
+specific
+neither
+west
+grab
+profit
+island
+seat
+rob
+centre
+veteranpeersupport
+narcissisticabusesurvivor
+narcissistexposer
+awakenedempath
+powerofagod
+exposetheparasites
+dontletthemeatyou
+antipsychoticcomedy
+fave
+shortstack
+flylady
+('suicide', 'depression')
+('suicide', 'prevention')
+('day', 'depression')
+('want', 'feel')
+('lot', 'people')
+('not', 'enough')
+('everything', 'go')
+('go', 'sad')
+('bipolar', 'bpd')
+('go', 'make')
+('adhd', 'depression')
+('help', 'people')
+('feel', 'bad')
+('help', 'anxiety')
+('bipolar', 'daily')
+('not', 'try')
+('phone', 'call')
+('pretty', 'much')
+('go', 'take')
+('us', 'go')
+('hope', 'good')
+('veteranpeersupport', 'mentalhealth')
+('mentalhealth', 'narcissisticabusesurvivor')
+('narcissisticabusesurvivor', 'narcissistexposer')
+('narcissistexposer', 'awakenedempath')
+('awakenedempath', 'powerofagod')
+('powerofagod', 'exposetheparasites')
+('exposetheparasites', 'dontletthemeatyou')
+('dontletthemeatyou', 'alien')
+('alien', 'monster')
+('monster', 'predator')
+('predator', 'sentience')
+('sentience', 'evil')
+('evil', 'antipsychoticcomedy')
+('antipsychoticcomedy', 'armageddon')
+('alright', 'mentalhealth')
+('quot', 'go')
+('distract', 'survive', 'mentalhealth')
+('bipolar', 'daily', 'goal')
+('veteranpeersupport', 'mentalhealth', 'narcissisticabusesurvivor')
+('mentalhealth', 'narcissisticabusesurvivor', 'narcissistexposer')
+('narcissisticabusesurvivor', 'narcissistexposer', 'awakenedempath')
+('narcissistexposer', 'awakenedempath', 'powerofagod')
+('awakenedempath', 'powerofagod', 'exposetheparasites')
+('powerofagod', 'exposetheparasites', 'dontletthemeatyou')
+('exposetheparasites', 'dontletthemeatyou', 'alien')
+('dontletthemeatyou', 'alien', 'monster')
+('alien', 'monster', 'predator')
+('monster', 'predator', 'sentience')
+('predator', 'sentience', 'evil')
+('sentience', 'evil', 'antipsychoticcomedy')
+('evil', 'antipsychoticcomedy', 'armageddon')
+distraction
+flu
+properly
+worthless
+circle
+heaven
+phd
+delete
+strongertogether
+bond
+snap
+hahahaha
+tiktok
+embrace
+aim
+divorce
+everywhere
+daddy
+table
+complain
+global
+discord
+example
+specialist
+letstalk
+presentation
+chase
+florida
+mode
+nfts
+paranoid
+angel
+delay
+ilads
+vision
+virtual
+swim
+tw
+status
+ch
+vaccine
+malfunction
+bath
+decent
+hubby
+brand
+react
+necessary
+charge
+sometime
+sugar
+tweeps
+geek
+bbq
+woot
+shaunjumpnow
+('suffer', 'depression')
+('today', 'not')
+('need', 'someone')
+('not', 'listen')
+('not', 'seem')
+('please', 'help')
+('really', 'bad')
+('find', 'way')
+('still', 'love')
+('anxiety', 'fear')
+('watch', 'movie')
+('help', 'depression')
+('make', 'difference')
+('heal', 'grief')
+('wellbeing', 'mentalhealth')
+('love', 'amp')
+('love', 'not')
+('oh', 'yeah')
+('depression', 'feeling')
+('feel', 'shame')
+('start', 'soon')
+('quot', 'know')
+('quot', 'oh')
+('quot', 'lol')
+('anxiety', 'depression', 'ptsd')
+('mentalhealth', 'anxiety', 'depression')
+machine
+tha
+gr
+wind
+climate
+shoulder
+bone
+outcome
+inspirational
+debt
+heartbreaking
+expensive
+neisvoid
+bottom
+meme
+imagination
+psychosis
+direction
+nose
+saturdaythoughts
+sum
+distance
+happens
+ing
+advocate
+nfl
+crime
+veteransday
+understanding
+sundayvibes
+scared
+positivemindset
+copingskills
+degree
+effective
+stock
+library
+strategy
+identify
+metal
+intense
+winner
+comedy
+lung
+insane
+celebrity
+senior
+spectrum
+substance
+honor
+meal
+prob
+marathon
+spanish
+trump
+delicious
+delongeday
+sweetie
+('mentalhealth', 'amp')
+('amwriting', 'writingcommunity')
+('bad', 'thing')
+('feeling', 'sad')
+('still', 'not')
+('never', 'go')
+('one', 'time')
+('ocd', 'anxiety')
+('like', 'anxiety')
+('grief', 'growth')
+('growth', 'shadowwork')
+('friendly', 'reminder')
+('feel', 'mentalhealth')
+('thanks', 'share')
+('get', 'do')
+('ptsd', 'mentalhealth')
+('say', 'something')
+('love', 'ya')
+('right', 'mentalhealth')
+('affect', 'mentalhealth')
+('mentalhealth', 'awareness')
+('feeling', 'concern')
+('concern', 'lately')
+('depression', 'want')
+('depression', 'recently')
+('recently', 'notice')
+('see', 'alright')
+('not', 'sad')
+('see', 'ya')
+('day', 'sad')
+('show', 'start')
+('funny', 'cute')
+('quot', 'like')
+('sound', 'good')
+('depression', 'amp', 'anxiety')
+('heal', 'grief', 'growth')
+('grief', 'growth', 'shadowwork')
+('one', 'depression', 'feeling')
+('depression', 'feeling', 'concern')
+('feeling', 'concern', 'lately')
+('concern', 'lately', 'mentalhealth')
+('one', 'depression', 'recently')
+('depression', 'recently', 'notice')
+('recently', 'notice', 'change')
+('notice', 'change', 'want')
+('change', 'want', 'see')
+('want', 'see', 'alright')
+('see', 'alright', 'mentalhealth')
+('alright', 'mentalhealth', 'depression')
+poverty
+frustration
+boring
+uh
+colettelouisetisdahl
+cltfoundation
+insecurity
+survival
+negativity
+stone
+discus
+isolate
+cast
+product
+everytime
+certainly
+bts
+uni
+dread
+bread
+amazon
+tried
+dick
+worse
+phase
+camp
+debate
+anime
+fish
+edit
+total
+philosophy
+mama
+reflection
+cooky
+donate
+wednesdaythought
+reject
+standard
+method
+refresh
+gas
+counselor
+restaurant
+anniversary
+confident
+volunteer
+genuinely
+scenario
+positivethoughts
+plane
+chemical
+insurance
+growthmindset
+basic
+awkward
+drag
+hill
+trade
+relieve
+speed
+genius
+selfawareness
+ftw
+communication
+previous
+bang
+streamer
+forgive
+sings
+disappointment
+upload
+trailer
+fallow
+techreview
+pubg
+tweeterfollow
+('colettelouisetisdahl', 'cltfoundation')
+('like', 'one')
+('people', 'talk')
+('people', 'life')
+('anyone', 'know')
+('new', 'song')
+('day', 'think')
+('anxiety', 'make')
+('broken', 'sad')
+('young', 'people')
+('thing', 'like')
+('feel', 'guilty')
+('come', 'home')
+('act', 'like')
+('poem', 'poetry')
+('thing', 'not')
+('take', 'life')
+('well', 'know')
+('nice', 'day')
+('else', 'get')
+('next', 'month')
+('start', 'day')
+('today', 'anxiety')
+('healingtrauma', 'heal')
+('shadowwork', 'spirituality')
+('spirituality', 'mentalhealthawareness')
+('day', 'anxiety')
+('amp', 'mentalhealth')
+('hell', 'go')
+('nice', 'see')
+('much', 'anxiety')
+('something', 'like')
+('tell', 'us')
+('thought', 'would')
+('many', 'thing')
+('something', 'happen')
+('gt', 'lt')
+('people', 'mentalhealth')
+('success', 'important')
+('follow', 'follow')
+('thanks', 'much')
+('make', 'laugh')
+('new', 'album')
+('tech', 'review')
+('review', 'go')
+('go', 'fan')
+('fan', 'new')
+('soon', 'hit')
+('hit', 'stay')
+('tune', 'fallow')
+('fallow', 'new')
+('new', 'techreview')
+('techreview', 'free')
+('free', 'tech')
+('tech', 'giveaway')
+('giveaway', 'sad')
+('happy', 'lucky')
+('lucky', 'amaze')
+('amaze', 'game')
+('game', 'fortnite')
+('fortnite', 'pubg')
+('pubg', 'minecraft')
+('minecraft', 'dog')
+('dog', 'funny')
+('cute', 'incredible')
+('incredible', 'luck')
+('www', 'tweeterfollow')
+('tweeterfollow', 'com')
+('bipolar', 'depression', 'loneliness')
+('healingtrauma', 'heal', 'grief')
+('growth', 'shadowwork', 'spirituality')
+('shadowwork', 'spirituality', 'mentalhealthawareness')
+('mentalhealthawareness', 'mentalhealthmatters', 'depression')
+('keep', 'go', 'end')
+('mentalhealthmatters', 'mentalhealthawareness', 'mentalhealth')
+('mentalhealthmatters', 'mentalhealth', 'mentalhealthawareness')
+('tech', 'review', 'go')
+('review', 'go', 'fan')
+('go', 'fan', 'new')
+('fan', 'new', 'show')
+('new', 'show', 'start')
+('show', 'start', 'soon')
+('start', 'soon', 'hit')
+('soon', 'hit', 'stay')
+('hit', 'stay', 'tune')
+('stay', 'tune', 'fallow')
+('tune', 'fallow', 'new')
+('fallow', 'new', 'techreview')
+('new', 'techreview', 'free')
+('techreview', 'free', 'tech')
+('free', 'tech', 'giveaway')
+('tech', 'giveaway', 'sad')
+('giveaway', 'sad', 'happy')
+('sad', 'happy', 'lucky')
+('happy', 'lucky', 'amaze')
+('lucky', 'amaze', 'game')
+('amaze', 'game', 'fortnite')
+('game', 'fortnite', 'pubg')
+('fortnite', 'pubg', 'minecraft')
+('pubg', 'minecraft', 'dog')
+('minecraft', 'dog', 'funny')
+('dog', 'funny', 'cute')
+('funny', 'cute', 'incredible')
+('cute', 'incredible', 'luck')
+('use', 'www', 'tweeterfollow')
+('www', 'tweeterfollow', 'com')
+('tweeterfollow', 'com', 'add')
+rare
+killer
+netflix
+population
+weed
+alan
+wing
+driver
+cont
+cheat
+sanity
+loser
+james
+teenager
+mini
+drinking
+peep
+trash
+insecure
+terrify
+he
+normalize
+stable
+press
+climb
+surely
+heat
+industry
+thrive
+aka
+dare
+improvement
+warrior
+traumatic
+boss
+ai
+alert
+praise
+neighbor
+label
+perfectly
+enter
+six
+selfharm
+genuine
+besides
+private
+se
+obsess
+sa
+jam
+fam
+shape
+anonymous
+tap
+claim
+sam
+aid
+silent
+location
+amanda
+darling
+laptop
+biden
+ali
+mmm
+jack
+dvd
+asot
+hehehe
+heh
+mw
+noundiessunday
+('soon', 'possible')
+('make', 'mistake')
+('take', 'one')
+('care', 'mental')
+('life', 'get')
+('please', 'please')
+('work', 'today')
+('love', 'new')
+('every', 'night')
+('want', 'cry')
+('talk', 'anyone')
+('back', 'home')
+('make', 'life')
+('get', 'rid')
+('know', 'people')
+('never', 'give')
+('first', 'day')
+('get', 'anxiety')
+('not', 'use')
+('give', 'anxiety')
+('not', 'self')
+('deal', 'anxiety')
+('trauma', 'healingtrauma')
+('way', 'go')
+('might', 'go')
+('lonely', 'end')
+('next', 'day')
+('need', 'take')
+('mentalhealthawareness', 'anxiety')
+('anyone', 'feel')
+('us', 'know')
+('selflove', 'selfcare')
+('depression', 'depression')
+('much', 'fun')
+('care', 'think')
+('seem', 'pretty')
+('pretty', 'lately')
+('fall', 'love')
+('hope', 'well')
+('sad', 'love')
+('jonas', 'brother')
+('right', 'sad')
+('quot', 'want')
+('trauma', 'healingtrauma', 'heal')
+('spirituality', 'mentalhealthawareness', 'mentalhealthmatters')
+('feel', 'lonely', 'end')
+('bpd', 'anxiety', 'depression')
+('mental', 'health', 'important')
+plenty
+horse
+porch
+understood
+naked
+sorrow
+cruel
+dhmu
+refer
+fade
+fml
+bf
+rage
+knee
+flat
+bullshit
+smith
+rant
+boom
+shitty
+sleepy
+mentalillnessisok
+ass
+pakistan
+wound
+japan
+political
+brings
+worrytree
+caffeine
+yoga
+aspect
+ideation
+unique
+nerve
+amy
+ashamed
+internal
+referral
+scene
+host
+university
+assistance
+positivevibesonly
+credit
+moral
+useful
+berelentless
+wide
+movement
+international
+milk
+um
+digital
+title
+highlight
+soft
+poll
+tweeter
+nick
+('every', 'year')
+('still', 'feel')
+('pretty', 'sure')
+('one', 'want')
+('ever', 'feel')
+('life', 'go')
+('work', 'mentalhealth')
+('sometimes', 'feel')
+('listen', 'music')
+('walk', 'away')
+('differ', 'able')
+('bpd', 'mentalhealth')
+('not', 'wash')
+('people', 'get')
+('please', 'get')
+('hard', 'work')
+('people', 'suffer')
+('say', 'hello')
+('gun', 'kill')
+('nothing', 'like')
+('next', 'year')
+('take', 'step')
+('suicide', 'attempt')
+('still', 'get')
+('mentalhealth', 'ptsd')
+('like', 'good')
+('emotion', 'feeling')
+('want', 'hear')
+('us', 'see')
+('click', 'link')
+('check', 'seem')
+('wait', 'till')
+('marsiscoming', 'marsiscoming')
+('shaunjumpnow', 'shaunjumpnow')
+('quot', 'think')
+('nice', 'meet')
+('amwriting', 'writingcommunity', 'mentalhealth')
+('buy', 'gun', 'kill')
+('daily', 'goal', 'take')
+('let', 'us', 'go')
+('one', 'depression', 'want')
+('depression', 'want', 'check')
+('want', 'check', 'seem')
+('check', 'seem', 'pretty')
+('seem', 'pretty', 'lately')
+('pretty', 'lately', 'mentalhealth')
+('help', 'mentalhealth', 'depression')
+organization
+domesticabuse
+spin
+wfh
+security
+birth
+lgbt
+cough
+measure
+meh
+freeze
+nut
+fantasy
+fuckin
+advance
+announce
+potter
+blah
+keepgoing
+mentalhealthph
+slightly
+ache
+sadquotes
+spiral
+oops
+devastate
+consume
+texas
+educate
+left
+throat
+mentor
+invisible
+adopt
+worklifebalance
+server
+perform
+playing
+normally
+usa
+closer
+disinherit
+grade
+boost
+supportive
+core
+prisonbreak
+dig
+nyc
+clinic
+ton
+communicate
+identity
+behavioralhealth
+creativity
+innerpeace
+discrimination
+throughout
+contribute
+influence
+festival
+accountability
+ups
+mobile
+fridaymorning
+consequence
+demonstrate
+peaceful
+ish
+bathroom
+dirty
+honey
+punch
+distrust
+fashion
+personaldevelopment
+dc
+borderline
+peter
+ho
+pattern
+firework
+competition
+careful
+starbucks
+talented
+produce
+suit
+germany
+foreign
+hmmm
+chicago
+wmhmyk
+xo
+chadfact
+lakers
+mcfly
+secondstomars
+tweeteradder
+('every', 'single')
+('make', 'us')
+('loneliness', 'depression')
+('harry', 'potter')
+('try', 'hard')
+('anxiety', 'real')
+('sad', 'cry')
+('never', 'see')
+('time', 'not')
+('one', 'go')
+('thing', 'feel')
+('mentalhealth', 'mindfulness')
+('go', 'watch')
+('say', 'go')
+('day', 'get')
+('amp', 'not')
+('way', 'get')
+('two', 'day')
+('good', 'job')
+('motivation', 'anxiety')
+('differ', 'afraid')
+('anxiety', 'mentalhealthawareness')
+('bad', 'anxiety')
+('fall', 'asleep')
+('get', 'use')
+('need', 'hear')
+('bipolar', 'mentalhealth')
+('day', 'week')
+('good', 'see')
+('support', 'mentalhealth')
+('someone', 'always')
+('happen', 'make')
+('love', 'guy')
+('sad', 'chadfact')
+('follow', 'friday')
+('day', 'quot')
+('quot', 'hey')
+('www', 'tweeteradder')
+('tweeteradder', 'com')
+('get', 'hell', 'go')
+('hell', 'go', 'hurt')
+('bother', 'everyone', 'go')
+('bipolar', 'bpd', 'anxiety')
+('think', 'get', 'help')
+('get', 'help', 'mentalhealth')
+('start', 'feel', 'way')
+('use', 'www', 'tweeteradder')
+('www', 'tweeteradder', 'com')
+('tweeteradder', 'com', 'add')
+legal
+homelessness
+uncertainty
+billion
+related
+oneself
+swing
+badly
+sentence
+poet
+misery
+defeat
+nowhere
+grand
+ease
+emergency
+gettin
+pillow
+disappointed
+ban
+lover
+racist
+fee
+upcoming
+actor
+trueconvos
+nh
+section
+suffers
+productivity
+doll
+technique
+building
+hustle
+homework
+psych
+someday
+button
+sri
+airport
+butt
+ray
+banana
+policy
+corner
+conflict
+rape
+creator
+workshop
+chinese
+submit
+unite
+print
+therefore
+katie
+apps
+gold
+gig
+te
+bob
+mp
+berlin
+campaign
+daysofmentalhealth
+vt
+original
+steve
+nerd
+chick
+princess
+woohoo
+('last', 'month')
+('pain', 'anxiety')
+('not', 'exist')
+('wish', 'would')
+('fall', 'apart')
+('talk', 'someone')
+('go', 'one')
+('people', 'live')
+('not', 'not')
+('make', 'sad')
+('make', 'fun')
+('not', 'yet')
+('not', 'think')
+('time', 'feel')
+('get', 'sleep')
+('amp', 'go')
+('like', 'shit')
+('people', 'feel')
+('people', 'care')
+('thing', 'make')
+('pain', 'sad')
+('not', 'afford')
+('hit', 'hard')
+('worrytree', 'anxiety')
+('keep', 'distract')
+('mind', 'body')
+('not', 'anxiety')
+('anxiety', 'get')
+('day', 'like')
+('know', 'think')
+('make', 'good')
+('anxiety', 'bad')
+('move', 'forward')
+('like', 'get')
+('good', 'get')
+('night', 'sleep')
+('mentally', 'ill')
+('depression', 'bipolar')
+('addiction', 'recovery')
+('well', 'mentalhealth')
+('could', 'use')
+('people', 'need')
+('amp', 'love')
+('mentalhealth', 'not')
+('mentalhealth', 'addictiontreatment')
+('follow', 'us')
+('great', 'job')
+('care', 'something')
+('make', 'start')
+('see', 'tomorrow')
+('glad', 'hear')
+('love', 'see')
+('people', 'follow')
+('thanks', 'love')
+('sweet', 'dream')
+('glad', 'like')
+('depression', 'anxiety', 'mentalhealth')
+('care', 'mental', 'health')
+('make', 'feel', 'like')
+('everyone', 'kill', 'anxiety')
+('let', 'us', 'see')
+('one', 'care', 'think')
+('care', 'think', 'get')
+('one', 'care', 'something')
+('care', 'something', 'happen')
+('something', 'happen', 'make')
+('happen', 'make', 'start')
+('make', 'start', 'feel')
+('feel', 'way', 'mentalhealth')
+('way', 'mentalhealth', 'depression')
+('not', 'wash', 'hand')
+bliss
+empower
+torture
+sexual
+planet
+particular
+disagree
+tanka
+appropriate
+slept
+sufferer
+shadow
+finance
+af
+demand
+apartment
+taco
+doin
+zero
+bridge
+adele
+lifecoach
+ka
+depresion
+videos
+sudden
+chaos
+plate
+justice
+whilst
+panicattacks
+rd
+mandate
+van
+occur
+cripple
+housing
+sock
+mild
+mission
+fry
+participate
+regularly
+vulnerability
+er
+psychiatry
+chinmoy
+wicked
+wrap
+disconnect
+psychiatric
+solid
+expose
+material
+selfimprovement
+complex
+gp
+couch
+thin
+teamfollowback
+coverage
+ty
+starttheconvo
+accent
+vitamin
+muscle
+stretch
+skip
+hunt
+kindly
+vegan
+introduce
+positively
+roast
+giggle
+mike
+idiot
+btcusd
+xrp
+('change', 'life')
+('feel', 'little')
+('help', 'us')
+('good', 'mental')
+('stress', 'depression')
+('people', 'make')
+('one', 'not')
+('quote', 'quote')
+('anyone', 'want')
+('thing', 'go')
+('not', 'realize')
+('get', 'work')
+('new', 'one')
+('leave', 'alone')
+('day', 'life')
+('depress', 'lonely')
+('go', 'school')
+('always', 'make')
+('see', 'people')
+('someone', 'not')
+('someone', 'talk')
+('say', 'would')
+('people', 'know')
+('know', 'love')
+('suicideprevention', 'mentalhealth')
+('time', 'take')
+('anxiety', 'today')
+('sleep', 'well')
+('mentalhealthawareness', 'selfcare')
+('ok', 'not')
+('deep', 'breath')
+('best', 'thing')
+('step', 'back')
+('today', 'think')
+('support', 'need')
+('someone', 'say')
+('anxiety', 'come')
+('live', 'kill')
+('try', 'not')
+('positive', 'achievement')
+('selfcare', 'bipolar')
+('sri', 'chinmoy')
+('know', 'good')
+('day', 'tomorrow')
+('mentalhealth', 'support')
+('need', 'go')
+('read', 'book')
+('gun', 'go')
+('wish', 'luck')
+('get', 'lot')
+('time', 'today')
+('not', 'eat')
+('mentalhealth', 'selflove')
+('self', 'love')
+('suicide', 'rate')
+('good', 'mood')
+('not', 'mentalhealth')
+('go', 'walk')
+('way', 'home')
+('mentalhealth', 'service')
+('get', 'see')
+('new', 'single')
+('make', 'great')
+('mentalhealth', 'care')
+('always', 'listen')
+('x', 'x')
+('quot', 'one')
+('not', 'quot')
+('followfriday', 'thanks')
+('quot', 'lt')
+('quot', 'well')
+('reason', 'live', 'kill')
+('let', 'us', 'know')
+('click', 'link', 'bio')
+('mentalhealth', 'depression', 'stress')
+('shaunjumpnow', 'shaunjumpnow', 'shaunjumpnow')
+tax
+workfromhome
+fog
+pour
+learning
+pure
+weakness
+politics
+christian
+micropoetry
+possibility
+blast
+circumstance
+youmatter
+ben
+twist
+pace
+valuable
+legit
+sh
+autumn
+exhausted
+authenticity
+teenage
+row
+baseball
+gf
+uncle
+funeral
+smash
+gut
+reset
+lolz
+jk
+stressed
+burst
+election
+own
+accomplish
+asd
+anxietyrelief
+alcoholism
+neurodivergent
+ptsdandbeyond
+assessment
+associate
+speaker
+agency
+arise
+collection
+overwhelmed
+stressmanagement
+item
+investment
+scroll
+classic
+sat
+adjust
+hint
+hangover
+threat
+orange
+graduation
+urge
+rope
+guys
+directly
+nasty
+cell
+racism
+selfdevelopment
+east
+feedback
+michael
+egg
+sushi
+earn
+jon
+physicalhealth
+hav
+ny
+fab
+chip
+trek
+wen
+pen
+twit
+french
+alyssa
+('attempt', 'suicide')
+('bad', 'part')
+('need', 'talk')
+('real', 'life')
+('want', 'not')
+('one', 'talk')
+('think', 'one')
+('treat', 'like')
+('lonely', 'sad')
+('want', 'make')
+('sad', 'sadness')
+('like', 'everyone')
+('sad', 'hurt')
+('go', 'long')
+('feel', 'really')
+('please', 'reach')
+('like', 'know')
+('today', 'good')
+('time', 'sad')
+('know', 'mentalhealth')
+('want', 'help')
+('well', 'go')
+('keep', 'us')
+('new', 'job')
+('think', 'might')
+('bipolar', 'bipolardisorder')
+('pay', 'attention')
+('would', 'differ')
+('one', 'get')
+('harm', 'keep')
+('get', 'day')
+('people', 'anxiety')
+('health', 'care')
+('anxiety', 'feel')
+('depression', 'love')
+('health', 'service')
+('day', 'ago')
+('not', 'hear')
+('live', 'end')
+('want', 'live')
+('new', 'moon')
+('ever', 'since')
+('pain', 'depression')
+('today', 'day')
+('sad', 'emo')
+('not', 'everyone')
+('really', 'hard')
+('tomorrow', 'night')
+('always', 'good')
+('think', 'need')
+('tell', 'go')
+('really', 'go')
+('happen', 'today')
+('stress', 'anxietydisorder')
+('important', 'mentalhealth')
+('begin', 'feel')
+('front', 'porch')
+('last', 'tweet')
+('myspace', 'com')
+('quot', 'say')
+('good', 'mental', 'health')
+('bother', 'everyone', 'end')
+('not', 'self', 'harm')
+('self', 'harm', 'keep')
+('harm', 'keep', 'distract')
+('keep', 'distract', 'survive')
+('keep', 'go', 'kill')
+('mental', 'health', 'problem')
+('mentalillness', 'mentalhealth', 'selfcare')
+('mentalhealth', 'selfcare', 'bipolar')
+('selfcare', 'bipolar', 'bpd')
+('buy', 'gun', 'go')
+('gun', 'go', 'hurt')
+('depression', 'stress', 'anxietydisorder')
+('begin', 'feel', 'like')
+('get', 'help', 'need')
+('everyone', 'end', 'depression')
+tension
+hai
+lifetime
+grace
+grind
+income
+pie
+inbox
+observe
+disgust
+gentle
+deeply
+paul
+innocent
+ep
+watched
+shtwt
+gotten
+gad
+satisfy
+mommy
+becomes
+tightness
+endless
+lookin
+frame
+emotionalhealth
+tiny
+log
+bake
+presence
+significant
+grant
+actress
+ed
+melt
+heck
+yrs
+former
+adore
+oil
+worried
+breakthrough
+pile
+flash
+immediately
+mg
+ongoing
+rainy
+recoveryposse
+delivery
+porn
+doc
+accident
+positiveenergy
+therapeutic
+asthma
+thrill
+alarm
+singer
+headline
+statement
+bomb
+elementary
+principal
+stopsuicide
+athlete
+owe
+incident
+sandwich
+mon
+wat
+jar
+bug
+british
+faster
+reference
+loved
+entertain
+wedding
+pocket
+diversity
+sent
+spring
+tie
+un
+sooooo
+vermont
+coast
+ryan
+lovequotes
+bell
+oooh
+elephant
+demi
+tan
+ndccenter
+harmreduction
+strawberry
+kno
+bing
+itunes
+('time', 'life')
+('depression', 'life')
+('impact', 'mentalhealth')
+('would', 'think')
+('help', 'others')
+('try', 'find')
+('ask', 'question')
+('love', 'much')
+('co', 'worker')
+('someone', 'love')
+('go', 'start')
+('suffer', 'mental')
+('really', 'help')
+('video', 'game')
+('depress', 'depression')
+('suicidal', 'thought')
+('today', 'depression')
+('evil', 'enough')
+('come', 'get')
+('talk', 'people')
+('bipolar', 'bipolarclub')
+('need', 'stop')
+('use', 'twitter')
+('one', 'else')
+('really', 'really')
+('quote', 'sad')
+('depression', 'mentalhealthawareness')
+('struggle', 'anxiety')
+('old', 'friend')
+('people', 'struggle')
+('important', 'thing')
+('couple', 'week')
+('write', 'amwriting')
+('else', 'feel')
+('depression', 'health')
+('time', 'anxiety')
+('hope', 'everyone')
+('not', 'quite')
+('week', 'mentalhealth')
+('love', 'get')
+('lonely', 'go')
+('thing', 'say')
+('one', 'best')
+('go', 'good')
+('yr', 'old')
+('get', 'get')
+('friday', 'night')
+('finger', 'cross')
+('sad', 'lonely')
+('great', 'see')
+('addiction', 'mentalhealth')
+('daysofmentalhealth', 'mentalhealth')
+('state', 'vermont')
+('anxietydisorder', 'character')
+('cup', 'tea')
+('tea', 'amp')
+('amp', 'prayer')
+('prayer', 'front')
+('care', 'talk')
+('god', 'bless')
+('love', 'quote')
+('try', 'demonstrate')
+('demonstrate', 'someone')
+('emo', 'sad')
+('delongeday', 'delongeday')
+('good', 'thanks')
+('quot', 'hahaha')
+('hey', 'thanks')
+('thank', 'follow')
+('reason', 'live', 'end')
+('not', 'feel', 'like')
+('feel', 'lonely', 'go')
+('lonely', 'go', 'hurt')
+('stress', 'anxietydisorder', 'character')
+('feel', 'like', 'mentalhealth')
+('tea', 'amp', 'prayer')
+('amp', 'prayer', 'front')
+('prayer', 'front', 'porch')
+('one', 'care', 'talk')
+('care', 'talk', 'anyone')
+('talk', 'anyone', 'feel')
+('anyone', 'feel', 'mentalhealth')
+('feel', 'mentalhealth', 'depression')
+('try', 'demonstrate', 'someone')
+('demonstrate', 'someone', 'always')
+('someone', 'always', 'listen')
+('gt', 'gt', 'gt')
+pit
+crave
+strike
+wheel
+threaten
+helpline
+narrative
+unfollow
+procrastination
+paris
+rush
+fancy
+responsible
+neymar
+suffering
+sore
+curse
+vs
+grandma
+yell
+mm
+unrestraint
+shameful
+neglect
+pound
+mania
+atm
+kevin
+worthlessness
+insanity
+greatly
+combine
+afterwards
+buffalony
+overall
+evidence
+panicattack
+postpartumdepression
+disturb
+mass
+personalgrowth
+insight
+lip
+argue
+quiz
+mornin
+diamond
+collect
+describe
+consciousness
+clever
+neck
+resume
+alice
+iron
+lifelessons
+conquer
+sweetheart
+garbage
+consistent
+succeed
+hrs
+intend
+novel
+critical
+pan
+drum
+hashtag
+march
+float
+assignment
+karma
+behavioral
+commercial
+ole
+neighbour
+esp
+divest
+pair
+opposite
+gap
+brush
+separate
+blank
+hurry
+aaron
+dan
+dodger
+journalist
+fame
+affective
+shin
+hawkins
+dailygoals
+california
+stoke
+apncconference
+robot
+sims
+outfit
+kohli
+ronaldo
+andyhurleyday
+kitty
+forourhero
+hoppusday
+whyitweet
+('someone', 'tell')
+('not', 'expect')
+('life', 'anxiety')
+('get', 'chance')
+('one', 'ever')
+('depression', 'suicidal')
+('come', 'first')
+('people', 'around')
+('one', 'person')
+('us', 'make')
+('make', 'thing')
+('not', 'explain')
+('like', 'see')
+('feel', 'need')
+('feel', 'much')
+('much', 'well')
+('feel', 'anxiety')
+('alone', 'depression')
+('depress', 'sad')
+('still', 'try')
+('alone', 'sad')
+('peace', 'happiness')
+('get', 'touch')
+('fight', 'depression')
+('good', 'way')
+('mental', 'breakdown')
+('like', 'day')
+('week', 'not')
+('end', 'life')
+('one', 'know')
+('think', 'time')
+('not', 'go')
+('happy', 'day')
+('thing', 'ever')
+('come', 'visit')
+('go', 'buy')
+('say', 'love')
+('hell', 'end')
+('health', 'day')
+('good', 'enough')
+('live', 'anxiety')
+('go', 'depression')
+('thought', 'mentalhealth')
+('never', 'forget')
+('depression', 'mental')
+('anxiety', 'like')
+('work', 'anxiety')
+('know', 'know')
+('right', 'anxiety')
+('good', 'news')
+('start', 'get')
+('us', 'get')
+('stress', 'mentalhealth')
+('die', 'end')
+('day', 'make')
+('good', 'afternoon')
+('start', 'new')
+('late', 'night')
+('therapy', 'session')
+('one', 'way')
+('would', 'know')
+('sorry', 'not')
+('able', 'get')
+('anxietydisorder', 'anxiety')
+('not', 'get')
+('thing', 'life')
+('beautiful', 'day')
+('still', 'wait')
+('not', 'handle')
+('day', 'amp')
+('welcome', 'back')
+('problem', 'please')
+('hope', 'not')
+('severe', 'depression')
+('please', 'retweet')
+('day', 'remember')
+('say', 'say')
+('make', 'mentalhealth')
+('life', 'would')
+('new', 'day')
+('good', 'go')
+('would', 'get')
+('ready', 'go')
+('would', 'go')
+('mentalillnessisok', 'mentalhealth')
+('depression', 'mentalillnessisok')
+('depression', 'hit')
+('good', 'friend')
+('amp', 'get')
+('mentalhealth', 'suicideprevention')
+('health', 'resource')
+('seasonal', 'affective')
+('affective', 'disorder')
+('berlin', 'vt')
+('mentalhealth', 'happiness')
+('character', 'selfcare')
+('mentalhealth', 'challenge')
+('support', 'right')
+('friend', 'mentalhealth')
+('david', 'hawkins')
+('care', 'begin')
+('mentalhealth', 'dailygoals')
+('hard', 'time')
+('good', 'good')
+('ndccenter', 'mentalhealth')
+('may', 'please')
+('follower', 'copy')
+('copy', 'post')
+('apncconference', 'addiction')
+('follow', 'back')
+('lot', 'fun')
+('quot', 'come')
+('quot', 'new')
+('quot', 'thanks')
+('anxiety', 'depression', 'mentalhealth')
+('take', 'care', 'mental')
+('make', 'feel', 'good')
+('mentalhealthawareness', 'mentalhealthmatters', 'mentalhealth')
+('get', 'hell', 'end')
+('mental', 'health', 'day')
+('ptsd', 'anxiety', 'depression')
+('hate', 'everyone', 'kill')
+('anxiety', 'panic', 'attack')
+('want', 'die', 'end')
+('bother', 'everyone', 'kill')
+('mental', 'health', 'resource')
+('seasonal', 'affective', 'disorder')
+('one', 'care', 'begin')
+('care', 'begin', 'feel')
+('like', 'mentalhealth', 'depression')
+('follower', 'copy', 'post')
+('lt', 'lt', 'lt')
+tackle
+despair
+hidden
+fr
+capitalism
+mentalhealthmonday
+thoughtoftheday
+cuddle
+rejection
+butter
+campus
+passionate
+frog
+collapse
+flood
+interact
+tick
+overthink
+desk
+pt
+boston
+haircut
+twin
+haunt
+script
+interaction
+loop
+nigga
+bay
+diary
+jean
+devil
+zen
+gosh
+nationalstressawarenessday
+unhealthy
+sight
+farewell
+hobby
+litres
+weigh
+organize
+meltdown
+speech
+wood
+le
+clue
+transformation
+decline
+candy
+watching
+guard
+september
+awhile
+intervention
+dentist
+grown
+snack
+license
+purchase
+survey
+goodness
+exams
+cognitive
+combination
+nevermind
+salad
+texting
+mentalhealthcheckin
+apologize
+sane
+overdose
+lovestory
+clip
+zoom
+distress
+valid
+awe
+potato
+advert
+toll
+amongst
+tragic
+journal
+edtwt
+graduate
+ga
+breathing
+bowl
+puppy
+dvpit
+mentalhealthawarenessmonth
+keeptalkingmh
+mentalwellbeing
+nominal
+expression
+goddamn
+precede
+japanese
+selfcarelover
+theatre
+motivationalquote
+pa
+susan
+ward
+dj
+outta
+dnt
+northcarolina
+fox
+grin
+yu
+thnx
+hollywood
+awwww
+mcflyforgermany
+twitpic
+contest
+mtv
+('year', 'since')
+('yet', 'still')
+('good', 'know')
+('know', 'need')
+('try', 'best')
+('health', 'please')
+('couple', 'day')
+('ignore', 'need')
+('need', 'know')
+('someone', 'need')
+('make', 'cry')
+('today', 'one')
+('life', 'want')
+('think', 'thing')
+('want', 'leave')
+('need', 'make')
+('feel', 'depress')
+('see', 'later')
+('depression', 'suck')
+('like', 'never')
+('sad', 'pain')
+('well', 'today')
+('tell', 'people')
+('go', 'give')
+('life', 'feel')
+('okay', 'not')
+('one', 'make')
+('know', 'like')
+('would', 'make')
+('take', 'deep')
+('still', 'alive')
+('take', 'nap')
+('would', 'give')
+('lay', 'bed')
+('like', 'depression')
+('want', 'watch')
+('family', 'member')
+('help', 'not')
+('really', 'struggle')
+('something', 'wrong')
+('lol', 'love')
+('mentalhealth', 'worldmentalhealthday')
+('thing', 'try')
+('litres', 'eat')
+('know', 'want')
+('worry', 'anxiety')
+('week', 'ago')
+('world', 'mentalhealth')
+('mentalhealth', 'day')
+('want', 'give')
+('part', 'life')
+('think', 'could')
+('people', 'tell')
+('micropoetry', 'tanka')
+('would', 'lack')
+('sleep', 'anxiety')
+('hell', 'kill')
+('anxiety', 'motivation')
+('could', 'get')
+('hope', 'feel')
+('sad', 'alone')
+('mentalhealth', 'covid')
+('not', 'deal')
+('stay', 'home')
+('break', 'heart')
+('go', 'wrong')
+('autism', 'anxiety')
+('not', 'actually')
+('mentalhealth', 'recovery')
+('run', 'away')
+('suicide', 'not')
+('matter', 'mentalhealth')
+('die', 'go')
+('close', 'eye')
+('month', 'ago')
+('people', 'sad')
+('trauma', 'mentalhealth')
+('feel', 'great')
+('know', 'make')
+('awareness', 'mentalhealth')
+('people', 'want')
+('happy', 'friday')
+('really', 'love')
+('selfcare', 'selfcarelover')
+('selfcarelover', 'success')
+('great', 'way')
+('quote', 'mentalhealth')
+('mentalhealth', 'check')
+('psychology', 'mentalhealth')
+('health', 'well')
+('hope', 'enjoy')
+('people', 'really')
+('positivevibesonly', 'mentalhealth')
+('well', 'good')
+('illness', 'depression')
+('mentalhealth', 'northcarolina')
+('prevention', 'harmreduction')
+('well', 'soon')
+('like', 'sad')
+('year', 'sad')
+('b', 'day')
+('haha', 'not')
+('quot', 'take')
+('quot', 'never')
+('quot', 'best')
+('aww', 'thanks')
+('go', 'quot')
+('mentalhealth', 'mentalhealthawareness', 'selfcare')
+('depression', 'anxiety', 'ptsd')
+('write', 'amwriting', 'writingcommunity')
+('writingcommunity', 'mentalhealth', 'depression')
+('quote', 'motivation', 'anxiety')
+('anxietydisorder', 'character', 'selfcare')
+('character', 'selfcare', 'selfcarelover')
+('selfcare', 'selfcarelover', 'success')
+('apncconference', 'addiction', 'recovery')
+('addiction', 'recovery', 'mentalhealth')
+('not', 'wait', 'till')
+('marsiscoming', 'marsiscoming', 'marsiscoming')
+desperately
+ki
+deadline
+favor
+momlife
+grey
+humble
+dementia
+economic
+pitch
+financial
+scott
+taught
+mixed
+thunder
+depth
+meaningful
+loving
+museum
+exclude
+youarenotalone
+itsoknottobeok
+announcement
+disapprove
+thus
+behave
+river
+zombie
+advantage
+boredom
+silver
+rat
+decade
+streak
+scratch
+hopeful
+complaint
+brianlaundrie
+intention
+jab
+unbend
+battery
+january
+cricket
+conduct
+tworldcup
+unfit
+rude
+basis
+sink
+atleast
+viral
+swift
+poison
+adventure
+slight
+victory
+president
+weekly
+cbd
+robin
+reader
+chair
+mechanism
+pee
+soap
+provider
+agoraphobia
+george
+borrow
+causalitycrisis
+academicchatter
+medtwitter
+overwhelming
+edition
+validate
+unstable
+noon
+neurodiversity
+capacity
+sin
+safely
+tattoo
+difficulty
+tape
+hyper
+monkey
+explode
+aside
+china
+sydney
+natural
+asshole
+hatred
+unafraid
+creep
+et
+perception
+august
+lb
+crawl
+desperate
+tongue
+abuser
+mid
+headphone
+z
+homie
+meat
+pb
+essential
+gear
+phrase
+hella
+syndrome
+exit
+revolution
+hydrate
+toy
+ily
+file
+rarely
+troll
+mi
+prioritize
+magazine
+rent
+blogging
+veggie
+ace
+net
+theory
+emotionalintelligence
+lasvegas
+nicely
+keywords
+crew
+asian
+xbox
+ohhh
+fruit
+watchin
+dat
+freakin
+avatar
+jb
+dhoni
+youu
+hee
+turnoffwords
+bradiewebb
+bsb
+chuckmemondays
+plug
+seb
+('live', 'world')
+('reach', 'support')
+('whatever', 'want')
+('always', 'think')
+('rest', 'life')
+('single', 'day')
+('love', 'someone')
+('go', 'great')
+('think', 'people')
+('try', 'figure')
+('poetry', 'micropoetry')
+('love', 'music')
+('something', 'not')
+('people', 'use')
+('please', 'know')
+('ignore', 'go')
+('thing', 'anxiety')
+('could', 'see')
+('much', 'appreciate')
+('alone', 'mentalhealth')
+('not', 'post')
+('good', 'today')
+('never', 'let')
+('much', 'pain')
+('pain', 'depress')
+('sad', 'selfcare')
+('life', 'like')
+('not', 'deserve')
+('like', 'nothing')
+('never', 'end')
+('people', 'die')
+('anyone', 'ever')
+('depression', 'take')
+('keep', 'mind')
+('love', 'peace')
+('thing', 'happen')
+('take', 'back')
+('ok', 'go')
+('cry', 'sad')
+('life', 'lifestyle')
+('make', 'want')
+('stay', 'strong')
+('make', 'money')
+('anxiety', 'work')
+('good', 'people')
+('kick', 'as')
+('talk', 'anxiety')
+('lonely', 'kill')
+('love', 'anxiety')
+('drink', 'litres')
+('find', 'one')
+('negative', 'thought')
+('tanka', 'write')
+('yeah', 'not')
+('think', 'anxiety')
+('mentalhealth', 'help')
+('adhd', 'mentalhealth')
+('anybody', 'else')
+('time', 'ago')
+('trauma', 'anxiety')
+('anxiety', 'hit')
+('bipolar', 'disorder')
+('go', 'like')
+('play', 'game')
+('motivational', 'motivation')
+('first', 'one')
+('small', 'thing')
+('long', 'term')
+('make', 'think')
+('past', 'week')
+('mentalhealth', 'bpd')
+('good', 'idea')
+('say', 'anything')
+('lot', 'lot')
+('motivationalquotes', 'motivational')
+('really', 'get')
+('go', 'thru')
+('depression', 'feel')
+('oh', 'god')
+('get', 'start')
+('come', 'soon')
+('hour', 'ago')
+('not', 'fault')
+('work', 'not')
+('night', 'go')
+('talk', 'mental')
+('time', 'go')
+('first', 'step')
+('back', 'mentalhealth')
+('time', 'love')
+('not', 'great')
+('say', 'get')
+('people', 'mental')
+('time', 'change')
+('hard', 'thing')
+('wonderful', 'day')
+('depression', 'recovery')
+('mentalhealth', 'wellness')
+('depression', 'get')
+('mentalhealth', 'crisis')
+('pass', 'away')
+('mentalhealth', 'life')
+('go', 'post')
+('ok', 'need')
+('awareness', 'month')
+('best', 'support')
+('personality', 'disorder')
+('grateful', 'today')
+('calm', 'relax')
+('think', 'new')
+('new', 'follower')
+('mentalhealth', 'love')
+('love', 'show')
+('inspiration', 'quote')
+('take', 'picture')
+('something', 'else')
+('northcarolina', 'prevention')
+('yeah', 'know')
+('get', 'sad')
+('one', 'favorite')
+('star', 'trek')
+('quot', 'amp')
+('www', 'myspace')
+('followfriday', 'follow')
+('forourhero', 'forourhero')
+('thanks', 'ff')
+('quot', 'great')
+('seb', 'day')
+('quot', 'awesome')
+('lol', 'not')
+('mental', 'health', 'please')
+('sometimes', 'feel', 'like')
+('day', 'feel', 'like')
+('everyone', 'end', 'anxiety')
+('anxiety', 'amp', 'depression')
+('mental', 'health', 'service')
+('feel', 'lonely', 'kill')
+('drink', 'litres', 'eat')
+('micropoetry', 'tanka', 'write')
+('tanka', 'write', 'amwriting')
+('get', 'hell', 'kill')
+('anxiety', 'mentalhealth', 'mentalhealthmatters')
+('hate', 'everyone', 'end')
+('hate', 'everyone', 'go')
+('keep', 'go', 'go')
+('go', 'go', 'hurt')
+('want', 'die', 'go')
+('die', 'go', 'hurt')
+('depression', 'mentalillnessisok', 'mentalhealth')
+('selfcarelover', 'success', 'important')
+('right', 'mentalhealth', 'depression')
+('recovery', 'mentalhealth', 'northcarolina')
+('mentalhealth', 'northcarolina', 'prevention')
+('northcarolina', 'prevention', 'harmreduction')
+('delongeday', 'delongeday', 'delongeday')
+('www', 'myspace', 'com')
+transfer
+silently
+environmental
+dynamic
+toward
+perk
+married
+pleased
+obstacle
+delight
+particularly
+txt
+emptiness
+permission
+grip
+makeup
+messy
+sheet
+randomly
+york
+precious
+beloved
+legs
+toe
+acc
+bury
+doom
+thick
+ocean
+beneficial
+bot
+sundaythoughts
+contract
+gon
+unwell
+depressionisreal
+bullet
+followme
+yield
+sub
+cod
+weightloss
+stressrelief
+poetrycommunity
+bestie
+induce
+breakthestigma
+abandon
+bacon
+somewhat
+bos
+dump
+relaxed
+privatepractice
+spotify
+era
+context
+supervisor
+offend
+hockey
+mute
+prescribe
+judgement
+snuggle
+dip
+hm
+witness
+intelligence
+denial
+healing
+wreck
+congress
+educator
+academic
+tempt
+alike
+chief
+daniel
+lots
+musical
+salvation
+timemanagement
+din
+pig
+sensitive
+allah
+range
+spoon
+pub
+clarity
+map
+forgotten
+poetrylovers
+playlist
+proof
+midday
+golden
+peanut
+unit
+approval
+neuroscience
+bull
+thumb
+route
+united
+encouragement
+gossip
+womenshealth
+jesuschrist
+discount
+journalism
+danny
+plain
+startup
+ontario
+dope
+innovation
+lauren
+sarah
+canadian
+tht
+rice
+sunlight
+engagement
+nursing
+compliment
+jackson
+eu
+jake
+prop
+seattle
+budget
+hater
+ebay
+adorable
+rohitsharma
+messi
+chillin
+mall
+aha
+beijing
+hannah
+cyrus
+sanctuarysunday
+('life', 'life')
+('depression', 'like')
+('happy', 'life')
+('two', 'year')
+('difficult', 'time')
+('support', 'group')
+('physically', 'mentally')
+('get', 'old')
+('sad', 'not')
+('health', 'amp')
+('health', 'mental')
+('thing', 'thing')
+('see', 'tweet')
+('ok', 'ok')
+('try', 'keep')
+('right', 'not')
+('get', 'something')
+('please', 'take')
+('feeling', 'depress')
+('smile', 'face')
+('anxiety', 'sad')
+('depressed', 'depression')
+('lack', 'time')
+('not', 'fuck')
+('feel', 'pretty')
+('look', 'back')
+('get', 'job')
+('tell', 'someone')
+('time', 'happen')
+('sad', 'anxiety')
+('twitter', 'account')
+('year', 'get')
+('time', 'start')
+('life', 'pain')
+('fall', 'back')
+('really', 'enjoy')
+('ignore', 'feel')
+('bring', 'back')
+('know', 'much')
+('friend', 'get')
+('always', 'feel')
+('need', 'love')
+('anxiety', 'selflove')
+('check', 'friend')
+('like', 'year')
+('mental', 'state')
+('bad', 'not')
+('life', 'good')
+('battle', 'depression')
+('enjoy', 'day')
+('anxious', 'anxiety')
+('try', 'go')
+('not', 'tweet')
+('would', 'good')
+('keep', 'try')
+('enough', 'people')
+('depression', 'adhd')
+('anxiety', 'bipolar')
+('someone', 'go')
+('step', 'time')
+('go', 'anxiety')
+('med', 'drink')
+('want', 'share')
+('thought', 'feeling')
+('anxiety', 'insomnia')
+('live', 'go')
+('right', 'thing')
+('anxiety', 'suck')
+('good', 'work')
+('mindfulness', 'mentalhealth')
+('go', 'happen')
+('come', 'across')
+('waste', 'time')
+('health', 'not')
+('hate', 'feeling')
+('really', 'know')
+('time', 'time')
+('unmake', 'anything')
+('get', 'sick')
+('please', 'unmake')
+('really', 'care')
+('know', 'would')
+('could', 'differ')
+('please', 'let')
+('cptsd', 'mentalhealth')
+('selflove', 'mentalhealth')
+('not', 'problem')
+('not', 'judge')
+('mentalhealth', 'matter')
+('highly', 'recommend')
+('best', 'day')
+('like', 'take')
+('seasonal', 'depression')
+('buffalo', 'depression')
+('great', 'night')
+('harm', 'distract')
+('get', 'thing')
+('amp', 'eat')
+('health', 'need')
+('day', 'look')
+('raise', 'awareness')
+('one', 'week')
+('buy', 'new')
+('one', 'mentalhealth')
+('think', 'mentalhealth')
+('much', 'need')
+('god', 'love')
+('mindset', 'mentalhealth')
+('get', 'response')
+('change', 'mentalhealth')
+('mental', 'well')
+('care', 'best')
+('thing', 'grateful')
+('bpd', 'borderlinepersonalitydisorder')
+('mentalhealth', 'bipolardisorder')
+('true', 'love')
+('even', 'well')
+('discussion', 'mentalhealth')
+('make', 'change')
+('date', 'w')
+('w', 'wife')
+('happy', 'mentalhealth')
+('everyone', 'mentalhealth')
+('sad', 'see')
+('great', 'show')
+('selfesteem', 'mentalhealth')
+('think', 'good')
+('like', 'new')
+('great', 'weekend')
+('right', 'back')
+('big', 'fan')
+('yeah', 'think')
+('wellness', 'sad')
+('selfcare', 'bts')
+('bts', 'lasvegas')
+('lasvegas', 'travel')
+('motivation', 'rohitsharma')
+('rohitsharma', 'messi')
+('messi', 'india')
+('india', 'dhoni')
+('dhoni', 'suicideprevention')
+('suicideprevention', 'ronaldo')
+('ronaldo', 'kohli')
+('kohli', 'neymar')
+('neymar', 'sad')
+('watch', 'quot')
+('quot', 'twitter')
+('mcflyforgermany', 'mcflyforgermany')
+('know', 'quot')
+('song', 'quot')
+('quot', 'make')
+('amp', 'tweet')
+('time', 'quot')
+('quot', 'god')
+('haha', 'love')
+('one', 'quot')
+('followfriday', 'great')
+('lol', 'well')
+('shaundiviney', 'shaundiviney')
+('quot', 'really')
+('thanks', 'followfriday')
